@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: flex-start; max-width: 900px; background-color: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <div style="flex: 1; margin-right: 20px;">
-    <h1> </h1>
+    <h1> Rial Arifin Rajagukguk </h1>
     <p>As a researcher, I specialize in a range of advanced fields including computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy. My work focuses on the intersection of these disciplines to drive innovation and practical applications. 
 One of my significant projects involved the development of a sophisticated model to predict solar irradiance. This model utilizes a combination of data from sky cameras and satellites to provide accurate and real-time predictions. The primary application of this model is for electric vehicles in motion, allowing them to optimize their energy consumption based on predicted solar energy availability. By integrating these diverse technologies, the model enhances the efficiency and sustainability of electric vehicles, contributing to the broader goals of reducing carbon emissions and promoting renewable energy sources.</p>
   </div>
