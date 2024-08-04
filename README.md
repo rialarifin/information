@@ -1,7 +1,3 @@
-# Rial Arifin Rajagukguk, PhD
-
-As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.
-
 <div style="display: flex; align-items: flex-start; max-width: 900px; background-color: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <div style="flex: 1; margin-right: 20px;">
     <h1>Rial Arifin Rajagukguk, PhD</h1>
@@ -11,8 +7,6 @@ As a researcher, I focus on fields such as computer vision, machine learning, de
     <img src="Photo.jpeg" alt="Rial Arifin Rajagukguk" style="max-width: 200px; height: auto; border-radius: 50%;">
   </div>
 </div>
-
-
 
 ## Educations
 • PhD, [Kookmin University](https://english.kookmin.ac.kr), South Korea (2021 - 2024)
