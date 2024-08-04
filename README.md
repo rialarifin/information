@@ -26,7 +26,7 @@ One of my significant projects involved the development of a sophisticated model
 -	Design and CFD analysis of a small-scale blow-down type of wind tunnel that can be operated with two flow conditions. Two flow conditions are achieved with two different nozzles: Supersonic Mach number of 2.0 and Subsonic Mach number of 0.6.
 -	Design and CFD analysis of axial turbine with 100 KW power output.
 
-• Student researcher (Master and PhD): Renewable Energy Lab - Kookmin University (2019)
+• Student researcher (Master's and PhD): Renewable Energy Lab - Kookmin University (2019)
 -	Worked on satellite images to calculate cloud motion vector (CMV) using optical flow method and computer vision (Python/OpenCV) for solar irradiance forecasting.
 -	Estimated every minute time series solar radiation data in South Korea using deep learning models such as RNN, LSTM, GRU, and CNN.
 -	Successfully separated direct and diffuse irradiance from global horizontal irradiance by applying deep learning and transfer learning.
@@ -37,15 +37,21 @@ One of my significant projects involved the development of a sophisticated model
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
 ## Publications
-•	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020. 
+•	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
+
 •	[“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
+
 •	[“Sun blocking index (SBI) from sky image to estimate solar irradiance for smart window control”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
+
 •	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
+
 •	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
 ## Working papers
 •	“Explainable machine learning to estimate direct and diffuse irradiance” .2023. 
+
 •	“Sun-blocking index from sky images for intra-hour solar irradiance forecasting”. 2024.
+
 •	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. 2024.
 
 ## Project
