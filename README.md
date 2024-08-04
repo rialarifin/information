@@ -23,18 +23,18 @@ One of my significant projects involved the development of a sophisticated model
 " Parametric Study of Cooling Film and Implementation on One Axial Turbine Blade Stage "
 
 ## Work Experiences
-• CFD Engineer: PT. Chroma International - Bandung, Indonesia (2017)
+• CFD Engineer: [PT. Chroma International](https://www.chromaintegrated.com/) - Bandung, Indonesia (2017)
 -	Design and CFD analysis of a small-scale blow-down type of wind tunnel that can be operated with two flow conditions. Two flow conditions are achieved with two different nozzles: Supersonic Mach number of 2.0 and Subsonic Mach number of 0.6.
 -	Design and CFD analysis of axial turbine with 100 KW power output.
 
-• Student researcher (Master's and PhD): Renewable Energy Lab - Kookmin University (2019)
+• Student researcher (Master's and PhD): [Renewable Energy Lab](https://relab.kookmin.ac.kr/home) - Kookmin University (2019)
 -	Worked on satellite images to calculate cloud motion vector (CMV) using optical flow method and computer vision (Python/OpenCV) for solar irradiance forecasting.
 -	Estimated every minute time series solar radiation data in South Korea using deep learning models such as RNN, LSTM, GRU, and CNN.
 -	Successfully separated direct and diffuse irradiance from global horizontal irradiance by applying deep learning and transfer learning.
 -	Conducted research on deep learning models to forecast cloud fractions for very short-term forecast horizons using a sky camera.
 -	Solar irradiance, temperature, and humidity forecasting for energy saving of electric vehicles.
 
-• Research professor: Renewable Energy Lab - Kookmin University (2024) 
+• Research professor: [Renewable Energy Lab](https://relab.kookmin.ac.kr/home) - Kookmin University (2024) 
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
 ## Publications
