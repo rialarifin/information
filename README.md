@@ -8,7 +8,7 @@
     <img src="Photo.jpeg" alt="Rial Arifin Rajagukguk" style="max-width: 300px; height: auto; border-radius: 50%;">
   </div>
 </div>
-
+[Google scholar](https://scholar.google.com/citations?user=WdMsyCMAAAAJ&hl=en) | [Github](https://github.com/rialarifin) | [Linkedin](https://www.linkedin.com/in/rialarifin/)
 
 ## Educations
 • PhD, [Kookmin University](https://english.kookmin.ac.kr), South Korea (2021 - 2024)
