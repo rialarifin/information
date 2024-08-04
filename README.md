@@ -5,10 +5,11 @@
     <p>As a researcher, I specialize in a range of advanced fields including computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy. My work focuses on the intersection of these disciplines to drive innovation and practical applications. 
 One of my significant projects involved the development of a sophisticated model to predict solar irradiance. This model utilizes a combination of data from sky cameras and satellites to provide accurate and real-time predictions. The primary application of this model is for electric vehicles in motion, allowing them to optimize their energy consumption based on predicted solar energy availability. By integrating these diverse technologies, the model enhances the efficiency and sustainability of electric vehicles, contributing to the broader goals of reducing carbon emissions and promoting renewable energy sources.</p>
   </div>
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: flex-end; justify-content: center;">
     <img src="Rial_image.jpeg" alt="Rial Arifin Rajagukguk" style="max-width: 200px; height: auto; border-radius: 50%;">
   </div>
 </div>
+
 [Google scholar](https://scholar.google.com/citations?user=WdMsyCMAAAAJ&hl=en) | [Github](https://github.com/rialarifin) | [Linkedin](https://www.linkedin.com/in/rialarifin/) | [Research gate](https://www.researchgate.net/profile/Rial-Rajagukguk-2)
 
 ## Educations
