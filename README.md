@@ -49,11 +49,11 @@ One of my significant projects involved the development of a sophisticated model
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	“Explainable machine learning to estimate direct and diffuse irradiance” .2023. 
+•	“Explainable machine learning to estimate direct and diffuse irradiance”. (Submitted)
 
-•	“Sun-blocking index from sky images for intra-hour solar irradiance forecasting”. 2024.
+•	“Sun-blocking index from sky images for intra-hour solar irradiance forecasting”. (Submitted)
 
-•	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. 2024.
+•	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Submitted)
 
 ## Project
 •Perusahaan Listrik Negara (PT PLN)	Jakarta, Indonesia
