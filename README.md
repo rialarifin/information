@@ -1,4 +1,5 @@
-# Researcher
+# Rial Arifin Rajagukguk
+[<img align="left" alt="MySQL" width'"30px" src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WdMsyCMAAAAJ&citpid=10" style="padding-right:10px;" />][webdev]
 As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.
 
 ## Educations
