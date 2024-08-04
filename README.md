@@ -37,7 +37,7 @@ One of my significant projects involved the development of a sophisticated model
 • Research professor: [Renewable Energy Lab](https://relab.kookmin.ac.kr/home) - Kookmin University (2024) 
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
-## Publications
+## Published papers
 •	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
 •	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
