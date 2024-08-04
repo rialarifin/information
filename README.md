@@ -1,29 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rial Arifin Rajagukguk, PhD</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <div class="content">
-            <h1>Rial Arifin Rajagukguk, PhD</h1>
-            <p>As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.</p>
-        </div>
-        <div class="image-container">
-            <img src="Photo.jpeg" alt="Rial Arifin Rajagukguk">
-        </div>
-    </div>
-</body>
-</html>
-
-
 # Rial Arifin Rajagukguk, PhD
 
 As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.
-![Rial_image](Photo.jpeg)
+
+<div style="display: flex; align-items: flex-start; max-width: 900px; background-color: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h1>Rial Arifin Rajagukguk, PhD</h1>
+    <p>As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.</p>
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="Photo.jpeg" alt="Rial Arifin Rajagukguk" style="max-width: 200px; height: auto; border-radius: 50%;">
+  </div>
+</div>
+
 
 
 ## Educations
