@@ -59,10 +59,13 @@ One of my significant projects involved the development of a sophisticated model
 •Perusahaan Listrik Negara (PT PLN)	Jakarta, Indonesia
 -	Solar irradiance estimation using sky camera.	6/2023-11/2023
 -	Solar irradiance forecasting using sky camera and satellite image.	5/2024-present
+  
 •Korea Evaluation Institute of Industrial Technology (KEIT)	Seoul, Korea
 -	Thermal management system to reduce energy consumption and optimize the mileage of electric vehicle (EV).	4/2022-12/2025
+  
 •National Research Foundation of Korea (NRF)	Seoul, Korea
 -	Machine learning linked solar radiation model to predict solar irradiance.	3/2019-2/2023
+  
 •SONUSYS Co., Ltd	Seoul, Korea
 - Controlling the window based on solar radiation components.	4/2021-10/2021
 
