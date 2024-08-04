@@ -24,20 +24,16 @@ As a researcher, I focus on fields such as computer vision, machine learning, de
 -	Solar irradiance, temperature, and humidity forecasting for energy saving of electric vehicles.
 
 ### Publications
-•	“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”. Energies 13 (24), 6623. 2020. 
-https://www.mdpi.com/1996-1073/13/24/6623
+•	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020. 
 
-•	“A deep learning model to forecast solar irradiance using a sky camera”. Applied Sciences 11 (11), 5049. 2021.
-https://www.mdpi.com/2076-3417/11/11/5049
+•	[“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
 
-•	“Sun blocking index (SBI) from sky image to estimate solar irradiance for smart window control”. Building and Environment. 2022.
-https://doi.org/10.1016/j.buildenv.2022.109481
+•	[“Sun blocking index (SBI) from sky image to estimate solar irradiance for smart window control”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
 
-•	“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”. Solar Energy. 2022.
-https://doi.org/10.1016/j.solener.2023.01.037
+•	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
 
-•	“Enhancing the performance of solar radiation decomposition models using deep learning”. Journal of the Korean Solar Energy Society. 2023.
-https://www.ksesjournal.co.kr/articles/xml/qVn9/
+•	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
+
 
 ### AWARD
 •	Best Paper Award with Prof. Hyunjin Lee, The Korean Solar Energy Society (KSES) 2023, Yeosu, Seoul, South Korea. 8 November 2023.
