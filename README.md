@@ -2,13 +2,14 @@
 <div style="display: flex; align-items: flex-start; max-width: 900px; background-color: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <div style="flex: 1; margin-right: 20px;">
     <h1> </h1>
-    <p>As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.</p>
+    <p>As a researcher, I specialize in a range of advanced fields including computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy. My work focuses on the intersection of these disciplines to drive innovation and practical applications. 
+One of my significant projects involved the development of a sophisticated model to predict solar irradiance. This model utilizes a combination of data from sky cameras and satellites to provide accurate and real-time predictions. The primary application of this model is for electric vehicles in motion, allowing them to optimize their energy consumption based on predicted solar energy availability. By integrating these diverse technologies, the model enhances the efficiency and sustainability of electric vehicles, contributing to the broader goals of reducing carbon emissions and promoting renewable energy sources.</p>
   </div>
   <div style="display: flex; align-items: center; justify-content: center;">
     <img src="Photo.jpeg" alt="Rial Arifin Rajagukguk" style="max-width: 300px; height: auto; border-radius: 50%;">
   </div>
 </div>
-[Google scholar](https://scholar.google.com/citations?user=WdMsyCMAAAAJ&hl=en) | [Github](https://github.com/rialarifin) | [Linkedin](https://www.linkedin.com/in/rialarifin/)
+[Google scholar](https://scholar.google.com/citations?user=WdMsyCMAAAAJ&hl=en) | [Github](https://github.com/rialarifin) | [Linkedin](https://www.linkedin.com/in/rialarifin/) | [Researcg Gate](https://www.researchgate.net/profile/Rial-Rajagukguk-2)
 
 ## Educations
 • PhD, [Kookmin University](https://english.kookmin.ac.kr), South Korea (2021 - 2024)
@@ -25,12 +26,15 @@
 -	Design and CFD analysis of a small-scale blow-down type of wind tunnel that can be operated with two flow conditions. Two flow conditions are achieved with two different nozzles: Supersonic Mach number of 2.0 and Subsonic Mach number of 0.6.
 -	Design and CFD analysis of axial turbine with 100 KW power output.
 
-• Full-time researcher: Renewable Energy Lab - Kookmin University (2019)
+• Student researcher (Master and PhD): Renewable Energy Lab - Kookmin University (2019)
 -	Worked on satellite images to calculate cloud motion vector (CMV) using optical flow method and computer vision (Python/OpenCV) for solar irradiance forecasting.
 -	Estimated every minute time series solar radiation data in South Korea using deep learning models such as RNN, LSTM, GRU, and CNN.
 -	Successfully separated direct and diffuse irradiance from global horizontal irradiance by applying deep learning and transfer learning.
 -	Conducted research on deep learning models to forecast cloud fractions for very short-term forecast horizons using a sky camera.
 -	Solar irradiance, temperature, and humidity forecasting for energy saving of electric vehicles.
+
+• Research professor: Renewable Energy Lab - Kookmin University (2024) 
+-	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
 ### Publications
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020. 
