@@ -1,7 +1,7 @@
 # Rial Arifin Rajagukguk, PhD
 
 As a researcher, I focus on fields such as computer vision, machine learning, deep learning, electric vehicles, satellite technology, sky cameras, and solar energy.
-![Rial_image](https://github.com/user-attachments/assets/7846d24b-202f-472b-8fc1-91b0ff4981ca)
+![Rial_image](Photo.jpeg)
 
 
 ## Educations
