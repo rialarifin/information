@@ -48,10 +48,10 @@ One of my significant projects involved the development of a sophisticated model
 
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
+•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
+
 ## Working papers
 •	“Explainable machine learning to estimate direct and diffuse irradiance”. (Submitted)
-
-•	“Sun-blocking index from sky images for intra-hour solar irradiance forecasting”. (Submitted)
 
 •	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Submitted)
 
@@ -71,6 +71,9 @@ One of my significant projects involved the development of a sophisticated model
 
 ### AWARD
 •	Best Paper Award with Prof. Hyunjin Lee, The Korean Solar Energy Society (KSES) 2023, Yeosu, Seoul, South Korea. 8 November 2023.
+
+### PATENT
+•	구름 특성 기반 일사량 추정 시스템 및 방법. KOREAN INTELLECTUAL PROPERTY OFFICE. 2024.
 
 ### International Conferences
 •	[The American Society of Mechanical Engineers Energy Sustainability (ASME ES 2023)](https://event.asme.org/ES-2023). The Madison Hotel, Washington, DC, July 10 – 12, 2023.
