@@ -38,6 +38,8 @@ One of my significant projects involved the development of a sophisticated model
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
 ## Published papers
+•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
+
 •	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
 •	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
@@ -47,8 +49,6 @@ One of my significant projects involved the development of a sophisticated model
 •	[“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
 
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
-
-•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
 
 ## Working papers
 •	“Explainable machine learning to estimate direct and diffuse irradiance”. (Submitted)
