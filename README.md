@@ -38,6 +38,8 @@ One of my significant projects involved the development of a sophisticated model
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
 
 ## Published papers
+•	[“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
+
 •	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
 
 •	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
@@ -51,8 +53,6 @@ One of my significant projects involved the development of a sophisticated model
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	“Explainable machine learning to estimate direct and diffuse irradiance”. (Submitted)
-
 •	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Submitted)
 
 ## Project
