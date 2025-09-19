@@ -53,7 +53,14 @@ One of my significant projects involved the development of a sophisticated model
 •	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Submitted)
+•	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Revision)
+
+•	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Under review)
+
+•	“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”.
+
+•	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
+
 
 ## Project
 •Perusahaan Listrik Negara (PT PLN)	Jakarta, Indonesia
