@@ -40,7 +40,9 @@ One of my significant projects involved the development of a sophisticated model
 ## Published papers
 •	[“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
 
-•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
+•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
+
+•	[“Estimating Irradiance through Satellite-Driven Deep Learning Models”](10.1109/ISITIA63062.2024.10667941). International Seminar on Intelligent Technology and Its Applications. 2024.
 
 •	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
