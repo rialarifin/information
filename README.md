@@ -48,7 +48,7 @@ One of my significant projects involved the development of a sophisticated model
 
 •	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
 
-•	[“Sun blocking index (SBI) from sky image to estimate solar irradiance for smart window control”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
+•	[“Sun blocking index (SBI) from sky image to estimate solar irradiance”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
 
 •	[“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
 
