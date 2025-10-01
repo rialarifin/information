@@ -34,8 +34,11 @@ One of my significant projects involved the development of a sophisticated model
 -	Conducted research on deep learning models to forecast cloud fractions for very short-term forecast horizons using a sky camera.
 -	Solar irradiance, temperature, and humidity forecasting for energy saving of electric vehicles.
 
-• Research professor: [Renewable Energy Lab](https://relab.kookmin.ac.kr/home) - Kookmin University (2024) 
+• Postdoctoral researcher: [Renewable Energy Lab](https://relab.kookmin.ac.kr/home) - Kookmin University (Sept 2024 - June 2025) 
 -	Solar irradiance and cabin air temperature forecasting for moving electric vehicles.
+  
+• Postdoctoral researcher: [Agricultural Facilities and Environment Lab](https://www.afel-jnu.info/research-projects) - Chonnam National University (July 2025 - now) 
+-	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
 •	[“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
@@ -57,9 +60,9 @@ One of my significant projects involved the development of a sophisticated model
 ## Working papers
 •	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Revision)
 
-•	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Under review)
+•	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
-•	“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”.
+•	“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”. (Revision)
 
 •	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
 
