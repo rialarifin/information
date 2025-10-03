@@ -41,24 +41,24 @@ One of my significant projects involved the development of a sophisticated model
 -	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
-•	[“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
+•	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
 
-•	[“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
+•	**Rial A. Rajagukguk**, Hyunjin Lee [“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
 
-•	[“Estimating Irradiance through Satellite-Driven Deep Learning Models”](https://ieeexplore.ieee.org/document/10667941). International Seminar on Intelligent Technology and Its Applications. 2024.
+•	Indra A. Aditya, Pranda M. Putra, **Rial A. Rajagukguk**, Yessy Asri [“Estimating Irradiance through Satellite-Driven Deep Learning Models”](https://ieeexplore.ieee.org/document/10667941). International Seminar on Intelligent Technology and Its Applications. 2024.
 
-•	[“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
+•	**Rial A. Rajagukguk**, Hyunjin Lee [“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
-•	[“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
+•	Pranda M. Putra, **Rial A. Rajagukguk**, R. Kamil, Hyunjin Lee [“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
 
-•	[“Sun blocking index (SBI) from sky image to estimate solar irradiance”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
+•	**Rial A. Rajagukguk**, Won-Ki Choi, Hyunjin Lee [“Sun blocking index (SBI) from sky image to estimate solar irradiance”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
 
-•	[“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
+•	**Rial A. Rajagukguk**, R. Kamil, Hyunjin Lee [“A deep learning model to forecast solar irradiance using a sky camera”](https://www.mdpi.com/2076-3417/11/11/5049). Applied Sciences 11 (11), 5049. 2021.
 
-•	[“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
+•	**Rial A. Rajagukguk**, Raden A. A. Ramadhan, Hyunjin Lee [“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	“Solar radiation prediction based on the images of satellite and sky camera for the energy management of electric vehicles”. (Revision)
+•	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee “Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”. (Revision)
 
 •	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
