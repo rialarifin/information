@@ -41,7 +41,7 @@ One of my significant projects involved the development of a sophisticated model
 -	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
-•	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, “Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”. Smart Agricultural Technology. 2025
+•	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701 Smart Agricultural Technology). Smart Agricultural Technology. 2025.
 
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
 
@@ -65,7 +65,6 @@ One of my significant projects involved the development of a sophisticated model
 •	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
 •	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
-
 
 ## Project
 •Perusahaan Listrik Negara (PT PLN)	Jakarta, Indonesia
