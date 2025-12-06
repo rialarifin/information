@@ -60,7 +60,7 @@ One of my significant projects involved the development of a sophisticated model
 •	**Rial A. Rajagukguk**, Raden A. A. Ramadhan, Hyunjin Lee [“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee “Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”. (Revision)
+•	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee “Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”. (Accepted)
 
 •	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
