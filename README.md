@@ -41,6 +41,8 @@ One of my significant projects involved the development of a sophisticated model
 -	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
+•	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee [“Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”](https://www.nature.com/articles/s41598-025-31719-2). Scientific Reports. 2025.
+
 •	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
 
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
@@ -60,7 +62,7 @@ One of my significant projects involved the development of a sophisticated model
 •	**Rial A. Rajagukguk**, Raden A. A. Ramadhan, Hyunjin Lee [“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee “Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”. (Accepted)
+•	“An Outside-In Framework for Estimating Indoor Heat Stress in Broiler and Swine Farms Using GK2A Satellite Data”. (Submitted)
 
 •	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
