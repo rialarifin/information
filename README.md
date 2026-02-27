@@ -41,7 +41,7 @@ One of my significant projects involved the development of a sophisticated model
 -	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
-•	Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, **Rial A. Rajagukguk**. ['2026. Solar energy estimation in tropical environments: A novel framework for integrating satellite and sky imager data'](https://www.sciencedirect.com/science/article/pii/S2352484726001095). Energy Reports. 2026.
+•	Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, **Rial A. Rajagukguk**. ["Solar energy estimation in tropical environments: A novel framework for integrating satellite and sky imager data"](https://www.sciencedirect.com/science/article/pii/S2352484726001095). Energy Reports. 2026.
 
 •	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee [“Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”](https://www.nature.com/articles/s41598-025-31719-2). Scientific Reports. 2025.
 
