@@ -41,6 +41,8 @@ One of my significant projects involved the development of a sophisticated model
 -	Livestock Transport 4.0: Eco-Friendly Animal Welfare Transport Solutions.
 
 ## Published papers
+•	Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, **Rial A. Rajagukguk**. ['2026. Solar energy estimation in tropical environments: A novel framework for integrating satellite and sky imager data'](https://www.sciencedirect.com/science/article/pii/S2352484726001095). Energy Reports. 2026.
+
 •	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee [“Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”](https://www.nature.com/articles/s41598-025-31719-2). Scientific Reports. 2025.
 
 •	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
@@ -65,8 +67,6 @@ One of my significant projects involved the development of a sophisticated model
 •	“Solar Irradiance Estimation in a Tropical Environment using Selected Spectral Satellite Images: A Case Study in Indonesia”. (Submitted)
 
 •	“An Outside-In Framework for Estimating Indoor Heat Stress in Broiler and Swine Farms Using GK2A Satellite Data”. (Submitted)
-
-•	“Solar energy estimation in tropical Environments: A novel framework for integrating satellite and sky imager data”. (Revision)
 
 •	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
 
