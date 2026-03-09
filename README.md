@@ -46,8 +46,11 @@ One of my significant projects involved the development of a sophisticated model
 
 ## 2025
 •	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee [“Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”](https://www.nature.com/articles/s41598-025-31719-2). Scientific Reports. 2025.
+
 •	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
+
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
+
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
 
 ## 2024
