@@ -42,12 +42,15 @@ One of my significant projects involved the development of a sophisticated model
 
 ## Published papers
 ## 2026
+•	Se-yeon Lee, Ji-yeon Park, Jinseon Park, Chae-rin Lee, **Rial A. Rajagukguk**, Youngho Kang, Hyun Ho Noh,  Se-woon Hong. ["Field Evaluation of Human Exposure to Pesticides and Comparison with
+Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://doi.org/10.5338/KJEA.2026.45.01). Agricultural and Environmental Sciences. 2026.
+
 •	Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, **Rial A. Rajagukguk**. ["Solar energy estimation in tropical environments: A novel framework for integrating satellite and sky imager data"](https://www.sciencedirect.com/science/article/pii/S2352484726001095). Energy Reports. 2026.
 
 ## 2025
 •	**Rial A. Rajagukguk**, Hoseong Lee, and Hyunjin Lee [“Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework”](https://www.nature.com/articles/s41598-025-31719-2). Scientific Reports. 2025.
 
-•	**Rial A. Rajagukguk**, Se-yeonLee, Ji-yeonPark, Kehinde FavourDaniel, Chae-rinLee, ZhengChencDongLiu, TomásNorton, JinseonPark, Se-woonHong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
+•	**Rial A. Rajagukguk**, Se-yeon Lee, Ji-yeon Park, Kehinde FavourDaniel, Chae-rin Lee, ZhengChencDongLiu, TomásNorton, Jinseon Park, Se-woon Hong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
 
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
 
