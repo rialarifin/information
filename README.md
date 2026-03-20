@@ -42,6 +42,10 @@ One of my significant projects involved the development of a sophisticated model
 
 ## Published papers
 ## 2026
+•	**Rial A. Rajagukguk**, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee ["Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments"]. Engineered Science. 2026.
+
+•	**Rial A. Rajagukguk**, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong. [“Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data”]. Journal of Agricultural Engineering. 2025.
+
 •	Se-yeon Lee, Ji-yeon Park, Jinseon Park, Chae-rin Lee, **Rial A. Rajagukguk**, Youngho Kang, Hyun Ho Noh,  Se-woon Hong. ["Field Evaluation of Human Exposure to Pesticides and Comparison with
 Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://doi.org/10.5338/KJEA.2026.45.01). Agricultural and Environmental Sciences. 2026.
 
