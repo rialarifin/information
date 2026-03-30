@@ -47,7 +47,7 @@ One of my significant projects involved the development of a sophisticated model
 •	**Rial A. Rajagukguk**, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong. [“Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data”]. Journal of Agricultural Engineering. 2025.
 
 •	Se-yeon Lee, Ji-yeon Park, Jinseon Park, Chae-rin Lee, **Rial A. Rajagukguk**, Youngho Kang, Hyun Ho Noh,  Se-woon Hong. ["Field Evaluation of Human Exposure to Pesticides and Comparison with
-Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://doi.org/10.5338/KJEA.2026.45.01). Agricultural and Environmental Sciences. 2026.
+Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://www.korseaj.org/selectArticleInfo.do?article_a_no=HGNHB8_2026_v45_1&ano=HGNHB8_2026_v45_1). Agricultural and Environmental Sciences. 2026.
 
 •	Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, **Rial A. Rajagukguk**. ["Solar energy estimation in tropical environments: A novel framework for integrating satellite and sky imager data"](https://www.sciencedirect.com/science/article/pii/S2352484726001095). Energy Reports. 2026.
 
