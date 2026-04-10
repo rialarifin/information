@@ -42,7 +42,7 @@ One of my significant projects involved the development of a sophisticated model
 
 ## Published papers
 ## 2026
-•	**Rial A. Rajagukguk**, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee ["Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments"]. Engineered Science. 2026.
+•	**Rial A. Rajagukguk**, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee ["Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments"](https://www.espublisher.com/journals/articledetails/2171). Engineered Science. 2026.
 
 •	**Rial A. Rajagukguk**, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong. [“Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data”](https://doi.org/10.4081/jae.2026.2096). Journal of Agricultural Engineering. 2025.
 
@@ -66,8 +66,9 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 ## 2023
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Enhancing the performance of solar radiation decomposition models using deep learning”](https://www.ksesjournal.co.kr/articles/xml/qVn9/). Journal of the Korean Solar Energy Society. 2023.
 
-## 2022
 •	Pranda M. Putra, **Rial A. Rajagukguk**, R. Kamil, Hyunjin Lee [“Intra-day forecast of global horizontal irradiance using optical flow method and long short-term memory model”](https://doi.org/10.1016/j.solener.2023.01.037). Solar Energy. 2022.
+
+## 2022
 •	**Rial A. Rajagukguk**, Won-Ki Choi, Hyunjin Lee [“Sun blocking index (SBI) from sky image to estimate solar irradiance”](https://doi.org/10.1016/j.buildenv.2022.109481). Building and Environment. 2022.
 
 ## 2021
