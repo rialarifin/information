@@ -56,7 +56,7 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 
 •	**Rial A. Rajagukguk**, Se-yeon Lee, Ji-yeon Park, Kehinde FavourDaniel, Chae-rin Lee, ZhengChencDongLiu, TomásNorton, Jinseon Park, Se-woon Hong, [“Deep learning for visual animal monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A comprehensive review”](https://www.sciencedirect.com/science/article/pii/S2772375525007701). Smart Agricultural Technology. 2025.
 
-•	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](Accepted). Scientific Reports. 2025.
+•	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](https://www.nature.com/articles/s41598-025-91158-x). Scientific Reports. 2025.
 
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
 
