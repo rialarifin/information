@@ -78,10 +78,6 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 •	**Rial A. Rajagukguk**, Raden A. A. Ramadhan, Hyunjin Lee [“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
 ## Working papers
-•	“Solar Irradiance Estimation in a Tropical Environment using Selected Spectral Satellite Images: A Case Study in Indonesia”. (Submitted)
-
-•	“An Outside-In Framework for Estimating Indoor Heat Stress in Broiler and Swine Farms Using GK2A Satellite Data”. (Submitted)
-
 •	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
 
 ## Project
