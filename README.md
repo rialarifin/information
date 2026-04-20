@@ -42,9 +42,9 @@ One of my significant projects involved the development of a sophisticated model
 
 ## Published papers
 ## 2026
-•	**Rial A. Rajagukguk**, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee ["Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments"](https://www.espublisher.com/journals/articledetails/2171). Engineered Science. 2026.
-
 •	**Rial A. Rajagukguk**, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong. [“Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data”](https://doi.org/10.4081/jae.2026.2096). Journal of Agricultural Engineering. 2025.
+
+•	**Rial A. Rajagukguk**, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee ["Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments"](https://www.espublisher.com/journals/articledetails/2171). Engineered Science. 2026.
 
 •	Se-yeon Lee, Ji-yeon Park, Jinseon Park, Chae-rin Lee, **Rial A. Rajagukguk**, Youngho Kang, Hyun Ho Noh,  Se-woon Hong. ["Field Evaluation of Human Exposure to Pesticides and Comparison with
 Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://www.korseaj.org/selectArticleInfo.do?article_a_no=HGNHB8_2026_v45_1&ano=HGNHB8_2026_v45_1). Agricultural and Environmental Sciences. 2026.
@@ -58,9 +58,9 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 
 •	**Rial A. Rajagukguk**, Hyunjin Lee [“Application of explainable machine learning for estimating direct and diffuse components of solar irradiance”](https://www.nature.com/articles/s41598-025-91158-x). Scientific Reports. 2025.
 
-•	**Rial A. Rajagukguk**, Hyunjin Lee [“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2025.
-
 ## 2024
+•	**Rial A. Rajagukguk**, Hyunjin Lee [“Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting”](https://doi.org/10.1016/j.buildenv.2024.112429). Building and Environment. 2024.
+
 •	Indra A. Aditya, Pranda M. Putra, **Rial A. Rajagukguk**, Yessy Asri [“Estimating Irradiance through Satellite-Driven Deep Learning Models”](https://ieeexplore.ieee.org/document/10667941). International Seminar on Intelligent Technology and Its Applications. 2024.
 
 ## 2023
