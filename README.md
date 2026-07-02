@@ -96,6 +96,7 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 
 ### AWARD
 •	Best Paper, The Korean Solar Energy Society (KSES) 2023, Yeosu, Seoul, South Korea. 8 November 2023.
+
 •	Best Poster Presentation, The Korean Society of Animal Environmental Science & Technology (KSAEST) 2026, Cheongju, South Korea. 12 June 2026.
 
 
