@@ -95,12 +95,18 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 - Controlling the window based on solar radiation components.	4/2021-10/2021
 
 ### AWARD
-•	Best Paper Award with Prof. Hyunjin Lee, The Korean Solar Energy Society (KSES) 2023, Yeosu, Seoul, South Korea. 8 November 2023.
+•	Best Paper, The Korean Solar Energy Society (KSES) 2023, Yeosu, Seoul, South Korea. 8 November 2023.
+•	Best Poster Presentation, The Korean Society of Animal Environmental Science & Technology (KSAEST) 2026, Cheongju, South Korea. 12 June 2026.
+
 
 ### PATENT
 •	구름 특성 기반 일사량 추정 시스템 및 방법. KOREAN INTELLECTUAL PROPERTY OFFICE. 2024.
 
 ### International Conferences
+•	[Joint CIGR–EurAgEng World Congress 2026](https://www.cigr-eurageng-2026.org). Politecnico di Torino, Italy, June 24 – 26, 2026.
+Presentation 1: “Satellite-Driven Estimation of Indoor Heat Stress in Livestock Facilities Using Machine Learning and GEO-KOMPSAT-2A Data”. 
+Presentation 2: “Developing an Integrated Safety and Welfare Assessment System for Livestock Transport Vehicles in Korea”. 
+
 •	[The American Society of Mechanical Engineers Energy Sustainability (ASME ES 2023)](https://event.asme.org/ES-2023). The Madison Hotel, Washington, DC, July 10 – 12, 2023.
 Presentation: “Minute-level solar irradiance estimation via sun-blocking index derived from sky images”. 
 
