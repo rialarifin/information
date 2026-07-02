@@ -77,8 +77,6 @@ Exposure Assessment Models: Drone and Wide-area Sprayer Applications"](https://w
 ## 2020
 •	**Rial A. Rajagukguk**, Raden A. A. Ramadhan, Hyunjin Lee [“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”](https://www.mdpi.com/1996-1073/13/24/6623). Energies 13 (24), 6623. 2020.
 
-## Working papers
-•	“Assessment of hydrocyclone inlet direction on particle separation using CFD and field validation”.
 
 ## Project
 •Perusahaan Listrik Negara (PT PLN)	Jakarta, Indonesia
