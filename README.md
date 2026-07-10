@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -144,11 +143,6 @@
     opacity: 0.9;
   }
   .fisheye .ring-overlay{ position:absolute; inset:0; width:100%; height:100%; }
-  .fisheye-caption{
-    position:absolute; bottom: -30px; left:50%; transform:translateX(-50%);
-    font-family:'IBM Plex Mono', monospace; font-size: 11px; color: var(--text-faint);
-    white-space:nowrap;
-  }
 
   /* ---------- sections ---------- */
   section{ padding: 76px 0; border-top: 1px solid var(--line); }
@@ -334,7 +328,6 @@
             <line x1="10" y1="160" x2="310" y2="160" stroke="rgba(20,32,46,0.08)"/>
           </svg>
         </div>
-        <div class="fisheye-caption">// sky‑camera view, 08:24 KST</div>
       </div>
     </div>
   </section>
