@@ -424,7 +424,7 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1038/s41598-026-64309-x" target="_blank" rel="noopener">Refining ammonia inventories through top-down inverse modelling in high-density swine farming regions</a></div>
         <div class="pub-authors"><span class="me">Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Rial A. Rajagukguk</span>, Jinseon Park,  Yeonhoo Kim, Mijung Song, Beom-Keun Seo, Jongho Kim, Jinsik Kim, Hyung-Do Song, Chul Yoo, Se-woon Hong</div>
-        <div class="pub-venue">Journal of Agricultural Engineering</div>
+        <div class="pub-venue">Scientific Reports</div>
       </div>      
       
       <div class="pub-card">
