@@ -422,6 +422,12 @@
       <div class="pub-year-head"><span class="yr">2026</span><div class="yr-line"></div></div>
 
       <div class="pub-card">
+        <div class="pub-title"><a href="https://doi.org/10.1038/s41598-026-64309-x" target="_blank" rel="noopener">Refining ammonia inventories through top-down inverse modelling in high-density swine farming regions</a></div>
+        <div class="pub-authors"><span class="me">Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Rial A. Rajagukguk</span>, Jinseon Park,  Yeonhoo Kim, Mijung Song, Beom-Keun Seo, Jongho Kim, Jinsik Kim, Hyung-Do Song, Chul Yoo, Se-woon Hong</div>
+        <div class="pub-venue">Journal of Agricultural Engineering</div>
+      </div>      
+      
+      <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.4081/jae.2026.2096" target="_blank" rel="noopener">Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong</div>
         <div class="pub-venue">Journal of Agricultural Engineering</div>
