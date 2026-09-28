@@ -431,31 +431,31 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1038/s41598-026-64309-x" target="_blank" rel="noopener">Refining ammonia inventories through top-down inverse modelling in high-density swine farming regions</a></div>
         <div class="pub-authors">Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, <span class="me">Rial A. Rajagukguk</span>, Jinseon Park,  Yeonhoo Kim, Mijung Song, Beom-Keun Seo, Jongho Kim, Jinsik Kim, Hyung-Do Song, Chul Yoo, Se-woon Hong</div>
-        <div class="pub-venue">Scientific Reports</div>
+        <div class="pub-venue">Scientific Reports (SCIE, IF:4.9)</div>
       </div>      
       
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.4081/jae.2026.2096" target="_blank" rel="noopener">Estimating Indoor Heat Stress in Livestock Facilities Using High-Resolution Geo-KOMPSAT-2A Satellite Data</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Jinseon Park, Heejou Kim, Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Taehwan Ha, Se-woon Hong</div>
-        <div class="pub-venue">Journal of Agricultural Engineering</div>
+        <div class="pub-venue">Journal of Agricultural Engineering (SCIE, IF:3.1)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.espublisher.com/journals/articledetails/2171" target="_blank" rel="noopener">Feature Selection and Interpretability in Satellite-Based Solar Irradiance Estimation: Optimizing GEO-KOMPSAT-2A Multispectral Inputs for Tropical Environments</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Rezi Delfianti, Se-Woon Hong, Indra Ardhanayudha Aditya, Arief Heru Kuncoro, Sudirman Palaloi, Nur Aryanto Aryono, La Ode Muhammad Abdul Wahid, Supratikno, Murbantan Tandirerung, Pranda M.P. Garniwa, Hyunjin Lee</div>
-        <div class="pub-venue">Engineered Science</div>
+        <div class="pub-venue">Engineered Science (Scopus, IF:7.09)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.korseaj.org/selectArticleInfo.do?article_a_no=HGNHB8_2026_v45_1&ano=HGNHB8_2026_v45_1" target="_blank" rel="noopener">Field Evaluation of Human Exposure to Pesticides and Comparison with Exposure Assessment Models: Drone and Wide-area Sprayer Applications</a></div>
         <div class="pub-authors">Se-yeon Lee, Ji-yeon Park, Jinseon Park, Chae-rin Lee, <span class="me">Rial A. Rajagukguk</span>, Youngho Kang, Hyun Ho Noh, Se-woon Hong</div>
-        <div class="pub-venue">Agricultural and Environmental Sciences</div>
+        <div class="pub-venue">Agricultural and Environmental Sciences (KCI, IF:3.3)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2352484726001095" target="_blank" rel="noopener">Solar Energy Estimation in Tropical Environments: A Novel Framework for Integrating Satellite and Sky Imager Data</a></div>
         <div class="pub-authors">Aditya, I. A., M. Soleh, H. Lee, P. M.P. Garniwa, M. F.B. Suhaimi, S.-W. Hong, <span class="me">Rial A. Rajagukguk</span></div>
-        <div class="pub-venue">Energy Reports</div>
+        <div class="pub-venue">Energy Reports (SCIE, IF:6.6)</div>
       </div>
     </div>
 
@@ -465,19 +465,19 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.nature.com/articles/s41598-025-31719-2" target="_blank" rel="noopener">Dynamic Solar Irradiance Estimation for Vehicle Thermal Management Using a Multi-Modal Machine Learning Framework</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Hoseong Lee, Hyunjin Lee</div>
-        <div class="pub-venue">Scientific Reports</div>
+        <div class="pub-venue">Scientific Reports (SCIE, IF:4.9)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2772375525007701" target="_blank" rel="noopener">Deep Learning for Visual Animal Monitoring (Detection, Tracking, Pose Estimation, and Behavior Classification): A Comprehensive Review</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Se-yeon Lee, Ji-yeon Park, Kehinde FavourDaniel, Chae-rin Lee, ZhengChencDongLiu, TomásNorton, Jinseon Park, Se-woon Hong</div>
-        <div class="pub-venue">Smart Agricultural Technology</div>
+        <div class="pub-venue">Smart Agricultural Technology (Scopus, IF:7.1)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.nature.com/articles/s41598-025-91158-x" target="_blank" rel="noopener">Application of Explainable Machine Learning for Estimating Direct and Diffuse Components of Solar Irradiance</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Hyunjin Lee</div>
-        <div class="pub-venue">Scientific Reports</div>
+        <div class="pub-venue">Scientific Reports (SCIE, IF:4.9)</div>
       </div>
     </div>
 
@@ -487,7 +487,7 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1016/j.buildenv.2024.112429" target="_blank" rel="noopener">Sky-Image-Based Sun-Blocking Index and PredRNN++ for Accurate Short-Term Solar Irradiance Forecasting</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Hyunjin Lee</div>
-        <div class="pub-venue">Building and Environment</div>
+        <div class="pub-venue">Building and Environment (SCIE, IF:8.4)</div>
       </div>
 
       <div class="pub-card">
@@ -503,13 +503,13 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.ksesjournal.co.kr/articles/xml/qVn9/" target="_blank" rel="noopener">Enhancing the Performance of Solar Radiation Decomposition Models Using Deep Learning</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Hyunjin Lee</div>
-        <div class="pub-venue">Journal of the Korean Solar Energy Society</div>
+        <div class="pub-venue">Journal of the Korean Solar Energy Society (KCI, IF:0.46)</div>
       </div>
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1016/j.solener.2023.01.037" target="_blank" rel="noopener">Intra-day Forecast of Global Horizontal Irradiance Using Optical Flow Method and Long Short-Term Memory Model</a></div>
         <div class="pub-authors">Pranda M. Putra, <span class="me">Rial A. Rajagukguk</span>, R. Kamil, Hyunjin Lee</div>
-        <div class="pub-venue">Solar Energy</div>
+        <div class="pub-venue">Solar Energy (SCIE, IF:7.9)</div>
       </div>
     </div>
 
@@ -519,7 +519,7 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1016/j.buildenv.2022.109481" target="_blank" rel="noopener">Sun Blocking Index (SBI) from Sky Image to Estimate Solar Irradiance</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Won-Ki Choi, Hyunjin Lee</div>
-        <div class="pub-venue">Building and Environment</div>
+        <div class="pub-venue">Building and Environment (SCIE, IF:8.4)</div>
       </div>
     </div>
 
@@ -529,7 +529,7 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.mdpi.com/2076-3417/11/11/5049" target="_blank" rel="noopener">A Deep Learning Model to Forecast Solar Irradiance Using a Sky Camera</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, R. Kamil, Hyunjin Lee</div>
-        <div class="pub-venue">Applied Sciences, 11(11), 5049</div>
+        <div class="pub-venue">Applied Sciences (SCIE, IF:2.9)</div>
       </div>
     </div>
 
@@ -539,7 +539,7 @@
       <div class="pub-card">
         <div class="pub-title"><a href="https://www.mdpi.com/1996-1073/13/24/6623" target="_blank" rel="noopener">A Review on Deep Learning Models for Forecasting Time Series Data of Solar Irradiance and Photovoltaic Power</a></div>
         <div class="pub-authors"><span class="me">Rial A. Rajagukguk</span>, Raden A. A. Ramadhan, Hyunjin Lee</div>
-        <div class="pub-venue">Energies, 13(24), 6623</div>
+        <div class="pub-venue">Energies (SCIE, IF:3.9)</div>
       </div>
     </div>
 
