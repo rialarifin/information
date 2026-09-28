@@ -375,7 +375,14 @@
     <div class="timeline">
 
       <div class="t-item reveal">
-        <span class="t-date">Jul 2025 — now</span>
+        <span class="t-date">Sept 2026 — now</span>
+        <h3>Academic Research Professor</h3>
+        <div class="t-org"><a href="https://www.afel-jnu.info/research-projects" target="_blank" rel="noopener">Agricultural Facilities and Environment Lab</a> · Chonnam National University</div>
+        <ul><li>Livestock Transport 4.0: eco‑friendly animal welfare transport solutions.</li></ul>
+      </div>
+      
+      <div class="t-item reveal">
+        <span class="t-date">Jul 2025 — Aug 2026</span>
         <h3>Postdoctoral Researcher</h3>
         <div class="t-org"><a href="https://www.afel-jnu.info/research-projects" target="_blank" rel="noopener">Agricultural Facilities and Environment Lab</a> · Chonnam National University</div>
         <ul><li>Livestock Transport 4.0: eco‑friendly animal welfare transport solutions.</li></ul>
@@ -423,7 +430,7 @@
 
       <div class="pub-card">
         <div class="pub-title"><a href="https://doi.org/10.1038/s41598-026-64309-x" target="_blank" rel="noopener">Refining ammonia inventories through top-down inverse modelling in high-density swine farming regions</a></div>
-        <div class="pub-authors"><span class="me">Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, Rial A. Rajagukguk</span>, Jinseon Park,  Yeonhoo Kim, Mijung Song, Beom-Keun Seo, Jongho Kim, Jinsik Kim, Hyung-Do Song, Chul Yoo, Se-woon Hong</div>
+        <div class="pub-authors">Chae-rin Lee, Se-yeon Lee, Ji-yeon Park, <span class="me">Rial A. Rajagukguk</span>, Jinseon Park,  Yeonhoo Kim, Mijung Song, Beom-Keun Seo, Jongho Kim, Jinsik Kim, Hyung-Do Song, Chul Yoo, Se-woon Hong</div>
         <div class="pub-venue">Scientific Reports</div>
       </div>      
       
